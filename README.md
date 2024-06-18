@@ -21,6 +21,7 @@ Atualmente trabalho como Analista/Desenvolvedor Salesforce, tenho o nível mais 
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-souza-370586164/)
+[![Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/tsouza1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thalessouza1717@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thale.ss)
 
