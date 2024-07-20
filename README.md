@@ -2,6 +2,15 @@
 
 Atualmente, trabalho como Analista/Desenvolvedor Salesforce. Possuo o nível mais alto de conhecimento no Trailhead (Ranger) e estou em busca da minha terceira certificação na plataforma. Sou graduado em Sistemas de Informação. Estudo outras tecnologias, como Java e JavaScript, e estou sempre aberto a novos conhecimentos, disposto a aprender o que ainda não domino.
 
+
+## 📜 Certificações 
+
+<div>
+  <img loading="lazy" height="90em" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000"/>
+  <img loading="lazy" height="90em" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k000008zZI2&oid=00DF0000000gZsu&lastMod=1662618561000"/>
+</div>
+
+
 ## 🚀 Tecnologias e Ferramentas
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)
@@ -32,8 +41,6 @@ Atualmente, trabalho como Analista/Desenvolvedor Salesforce. Possuo o nível mai
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thale.ss)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thalessouza1717@gmail.com)
 [![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:thalessouza16@yahoo.com)
-
-
 
 
 ## 📈 Estatísticas do GitHub
