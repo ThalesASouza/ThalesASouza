@@ -1,12 +1,13 @@
 # Fala Dev, sou Thales Souza! 👋
 
-Atualmente, trabalho como Analista/Desenvolvedor Salesforce. Possuo o nível mais alto de conhecimento no Trailhead (Ranger) e estou em busca da minha quarta certificação na plataforma. Sou graduado em Sistemas de Informação. Estudo outras tecnologias, como Java e JavaScript, e estou sempre aberto a novos conhecimentos, disposto a aprender o que ainda não domino.
+Atualmente, trabalho como Analista/Desenvolvedor Salesforce. Possuo o nível mais alto de conhecimento no Trailhead (Ranger) e estou em busca da minha quinta certificação na plataforma. Sou graduado em Sistemas de Informação. Estudo outras tecnologias, como Java e JavaScript, e estou sempre aberto a novos conhecimentos, disposto a aprender o que ainda não domino.
 
 
 ## 📜 Certificações 
 
 <div>
   <img loading="lazy" height="90em" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k000008zZI2&oid=00DF0000000gZsu&lastMod=1662618561000"/>
+  <img loading="lazy" height="90em" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000BEqgH&oid=00DF0000000gZsu&lastMod=1693557495000"/>
   <img loading="lazy" height="90em" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000"/>
   <img loading="lazy" height="90em" src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MuC&oid=00DF0000000gZsu&lastMod=1617267543000"/>
 </div>
